@@ -1,0 +1,4 @@
+.env         # Ignore the environment file that contains sensitive data
+node_modules/  # Ignore node_modules folder from frontend
+target/        # Ignore Spring Boot build folder
+build/         # Ignore build directory in frontend
